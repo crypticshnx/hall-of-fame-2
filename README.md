@@ -3,3 +3,5 @@ Hall of Fame is an app to showcase the amazing CMP 211 Mobile Applications class
 
 ### Notes
 Walkthrough will be created once all class members are added
+
+Update test
