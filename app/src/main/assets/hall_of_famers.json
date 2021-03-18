@@ -1,0 +1,14 @@
+{
+  "stars": [
+    {
+      "_comment1": "Follow this template to add your Hall of Fame entry",
+      "_comment2": "Feel free to exclude these comments from your entry",
+      "id": 1,
+      "name": "Ahmad Napier",
+      "major": "Computer Science",
+      "favorite_cp_app": "Instagram Clone",
+      "fun_fact": "I teach students to code!",
+      "year_started_programming": 2016
+    }
+  ]
+}
